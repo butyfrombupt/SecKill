@@ -1,0 +1,52 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.qihang.secKill.redis.RedisConfig",
+      "name": "spring.redis",
+      "type": "com.qihang.secKill.redis.RedisConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.qihang.secKill.redis.RedisConfig",
+      "name": "spring.redis.host",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.qihang.secKill.redis.RedisConfig",
+      "name": "spring.redis.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.qihang.secKill.redis.RedisConfig",
+      "defaultValue": 0,
+      "name": "spring.redis.pool-max-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.qihang.secKill.redis.RedisConfig",
+      "defaultValue": 0,
+      "name": "spring.redis.pool-max-total",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.qihang.secKill.redis.RedisConfig",
+      "defaultValue": 0,
+      "name": "spring.redis.pool-max-wait",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.qihang.secKill.redis.RedisConfig",
+      "defaultValue": 0,
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.qihang.secKill.redis.RedisConfig",
+      "defaultValue": 0,
+      "name": "spring.redis.timeout",
+      "type": "java.lang.Integer"
+    }
+  ]
+}
